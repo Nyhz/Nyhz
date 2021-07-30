@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own portfolio**
 
-- 🌱 I’m currently learning **MERN Stack while improving my HTML/CSS/JS skills**
+- 🌱 At the moment I'm working on mastering **MERN Stack while improving my HTML/CSS/JS skills**
 
 - 📫 How to reach me **dacr63@gmail.com**
 
