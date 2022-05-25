@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dany! Also known as 'nyhz' :D</h1>
 <h3 align="center">A passionate developer from Spain!</h3>
 
-- 🔭 I’m currently working on **my own portfolio**
+- 🔭 I’m currently working on **Tailor Hub**
 
 - 🌱 At the moment I'm working on mastering **MERN Stack while improving my HTML/CSS/JS skills**
 
