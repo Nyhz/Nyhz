@@ -5,7 +5,7 @@
 
 - 🌱 At the moment I'm working on mastering **MERN Stack while improving my HTML/CSS/JS skills**
 
-- 📫 How to reach me **dacr63@gmail.com**
+- 📫 How to reach me **nyhz.dev@gmail.com**
 
 - ⚡ Fun fact **I'm a gamer! Reach my out about games you play! I also love Vegemite :)**
 
